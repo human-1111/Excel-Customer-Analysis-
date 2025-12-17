@@ -6,16 +6,16 @@ The purpose of this project was to analyze customer sales data to understand pur
 
 Methodology
 
-Data Cleaning
+Data Cleaning:
 The project began with cleaning the raw customer dataset to ensure accuracy and reliability. Duplicate records were identified and removed using conditional formatting, which helped highlight repeated entries efficiently. Inconsistent and incorrect data values were corrected to prepare a clean dataset suitable for analysis.
 
-Data Processing
+Data Processing:
 After cleaning, the data was processed and enriched by creating new relevant fields using XLOOKUP, IF statements, and text manipulation functions. These transformations helped standardize categories, derive meaningful variables, and make the dataset analysis-ready.
 
-Data Analysis
+Data Analysis:
 Once the data was prepared, Pivot Tables were used to analyze the data and answer various business questions related to sales performance, customer demographics, delivery status, platform usage, and regional trends. Different pivot tables were created to explore distributions, comparisons, and trends across multiple dimensions.
 
-Data Visualization & Dashboard
+Data Visualization & Dashboard:
 Charts were created from each Pivot Table to visually represent trends and distributions in the data. These charts were then combined into a single interactive Excel dashboard, with appropriate formatting for clarity and readability. Slicers were added to enable dynamic filtering based on different variables such as month, gender, state, age group, and sales platform. For example, slicers allowed analysis of gender-wise gross sales for a specific month.
 
 
