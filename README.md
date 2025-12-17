@@ -1,5 +1,6 @@
 # Excel-Customer-Analysis
 Project Purpose
+
 The purpose of this project was to analyze customer sales data to understand purchasing patterns, customer demographics, and regional performance. The objective was to answer key business questions related to sales trends, customer segments, and platform preferences, and to provide actionable insights that could help improve targeting, marketing strategies, and overall business performance.
 
 
